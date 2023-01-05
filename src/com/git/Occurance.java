@@ -2,6 +2,10 @@ package com.git;
 
 public class Occurance {
 
+	private void sample() {
+		System.out.println("Sample Occurance");
+	}
+
 	public static void main(String[] args) {
 		String s = "Veena stays @ OMR - 600097 ";
 		int upperCase = 0;
